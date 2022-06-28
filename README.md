@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vanshika Goyal
 - 👀 I’m interested in Data Analytics and related works
-- 🌱 I’m currently working on a K-Means Clustering project
+- 🌱 I’m currently working on building my Data Structures and Algorithm skills
 - 📫 How to reach me- LinkedIn: https://www.linkedin.com/in/vanshika-goyal-741074230/
 
 <!---
